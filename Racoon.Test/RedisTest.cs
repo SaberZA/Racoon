@@ -25,9 +25,6 @@ namespace Racoon.Test
             //---------------Test Result -----------------------
             Assert.AreEqual("Hello",testObject.Value);
         }
-        
-
-
 
         // Ops
 
@@ -46,13 +43,13 @@ namespace Racoon.Test
         }
 
         [TestFixtureSetUp]
-        private void Setup()
+        public void Setup()
         {
             _redisContext = new RedisContext();
         }
 
         [TestFixtureTearDown]
-        private void TearDown()
+        public void TearDown()
         {
             _redisContext.Close(true);
         }
