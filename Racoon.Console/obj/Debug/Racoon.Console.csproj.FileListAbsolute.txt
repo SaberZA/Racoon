@@ -1,0 +1,11 @@
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Console\bin\Debug\Racoon.Console.exe.config
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Console\bin\Debug\Racoon.Console.exe
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Console\bin\Debug\Racoon.Console.pdb
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Console\bin\Debug\StackExchange.Redis.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Console\bin\Debug\StackExchange.Redis.pdb
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Console\bin\Debug\StackExchange.Redis.xml
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Console\obj\Debug\Racoon.Console.exe
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Console\obj\Debug\Racoon.Console.pdb
+C:\Apps\Racoon\Racoon.Console\bin\Debug\Racoon.Console.exe.config
+C:\Apps\Racoon\Racoon.Console\obj\Debug\Racoon.Console.exe
+C:\Apps\Racoon\Racoon.Console\obj\Debug\Racoon.Console.pdb

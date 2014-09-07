@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racoon.Data", "Racoon.Data\Racoon.Data.csproj", "{EA96768A-38D0-4A23-AB8A-43232AF41451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racoon.Logic", "Racoon.Logic\Racoon.Logic.csproj", "{3D2B3A54-BB13-4AC8-8DF5-32CFC60560F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0. UI", "0. UI", "{BE7C8D8D-71AD-474D-A94A-006CFB8BB0C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Logic", "1. Logic", "{C4F39BC8-F5AA-46A0-BA11-1DA6F3867FB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Data", "2. Data", "{3F5B3292-8817-4A41-BBA0-5D0058C73D8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racoon.Test", "Racoon.Test\Racoon.Test.csproj", "{4B985324-5490-4B23-8DA4-B54279F5F736}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Service", "3. Service", "{567EB9E5-33E6-4117-B384-4342F0CA9B35}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Test", "4. Test", "{6E41812C-4D40-4B5D-9833-D24A5248BAB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racoon.Console", "Racoon.Console\Racoon.Console.csproj", "{19751867-6FC9-4E07-9173-EE9844D009F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RedisServer", "RedisServer", "{62C4EACC-06FF-4438-874E-39449D30C34A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\..\Apps\redis-2.8\redis-2.8\bin\release\redis-2.8.14.zip = ..\..\..\..\..\..\Apps\redis-2.8\redis-2.8\bin\release\redis-2.8.14.zip
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA96768A-38D0-4A23-AB8A-43232AF41451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA96768A-38D0-4A23-AB8A-43232AF41451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA96768A-38D0-4A23-AB8A-43232AF41451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA96768A-38D0-4A23-AB8A-43232AF41451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2B3A54-BB13-4AC8-8DF5-32CFC60560F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2B3A54-BB13-4AC8-8DF5-32CFC60560F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2B3A54-BB13-4AC8-8DF5-32CFC60560F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2B3A54-BB13-4AC8-8DF5-32CFC60560F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B985324-5490-4B23-8DA4-B54279F5F736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B985324-5490-4B23-8DA4-B54279F5F736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B985324-5490-4B23-8DA4-B54279F5F736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B985324-5490-4B23-8DA4-B54279F5F736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19751867-6FC9-4E07-9173-EE9844D009F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19751867-6FC9-4E07-9173-EE9844D009F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19751867-6FC9-4E07-9173-EE9844D009F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19751867-6FC9-4E07-9173-EE9844D009F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EA96768A-38D0-4A23-AB8A-43232AF41451} = {3F5B3292-8817-4A41-BBA0-5D0058C73D8C}
+		{3D2B3A54-BB13-4AC8-8DF5-32CFC60560F1} = {C4F39BC8-F5AA-46A0-BA11-1DA6F3867FB4}
+		{19751867-6FC9-4E07-9173-EE9844D009F6} = {BE7C8D8D-71AD-474D-A94A-006CFB8BB0C9}
+		{4B985324-5490-4B23-8DA4-B54279F5F736} = {6E41812C-4D40-4B5D-9833-D24A5248BAB3}
+		{62C4EACC-06FF-4438-874E-39449D30C34A} = {6E41812C-4D40-4B5D-9833-D24A5248BAB3}
+	EndGlobalSection
+EndGlobal

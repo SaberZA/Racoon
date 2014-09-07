@@ -1,0 +1,20 @@
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Data\obj\Debug\Racoon.Data.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Data\bin\Debug\Racoon.Data.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Data\bin\Debug\Racoon.Data.pdb
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Data\bin\Debug\Racoon.Logic.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Data\bin\Debug\StackExchange.Redis.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Data\bin\Debug\Racoon.Logic.pdb
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Data\bin\Debug\StackExchange.Redis.pdb
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Data\bin\Debug\StackExchange.Redis.xml
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Data\obj\Debug\Racoon.Data.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Data\obj\Debug\Racoon.Data.pdb
+C:\Apps\Racoon\Racoon.Data\bin\Debug\Racoon.Data.dll
+C:\Apps\Racoon\Racoon.Data\bin\Debug\Racoon.Data.pdb
+C:\Apps\Racoon\Racoon.Data\bin\Debug\Racoon.Logic.dll
+C:\Apps\Racoon\Racoon.Data\bin\Debug\StackExchange.Redis.dll
+C:\Apps\Racoon\Racoon.Data\bin\Debug\Racoon.Logic.pdb
+C:\Apps\Racoon\Racoon.Data\bin\Debug\StackExchange.Redis.pdb
+C:\Apps\Racoon\Racoon.Data\bin\Debug\StackExchange.Redis.xml
+C:\Apps\Racoon\Racoon.Data\obj\Debug\Racoon.Data.csprojResolveAssemblyReference.cache
+C:\Apps\Racoon\Racoon.Data\obj\Debug\Racoon.Data.dll
+C:\Apps\Racoon\Racoon.Data\obj\Debug\Racoon.Data.pdb

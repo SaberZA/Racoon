@@ -1,0 +1,5 @@
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Logic\bin\Debug\Racoon.Logic.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Logic\bin\Debug\Racoon.Logic.pdb
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Logic\obj\Debug\Racoon.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Logic\obj\Debug\Racoon.Logic.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Logic\obj\Debug\Racoon.Logic.pdb
