@@ -1,7 +1,7 @@
 Racoon
 ======
 
-In-Memory Redis Database for Unit Testing
+Redis Database for Unit Testing
 
 Background
 ----------
