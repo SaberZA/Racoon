@@ -11,6 +11,7 @@ namespace Racoon.UI
     {
         static void Main(string[] args)
         {
+            // testing with TeamCity Build
             var conn = ConnectionMultiplexer.Connect("localhost");
             Console.WriteLine(conn.IsConnected);
             Console.ReadLine();

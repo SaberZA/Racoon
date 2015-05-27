@@ -9,3 +9,6 @@ C:\Users\Steven\Documents\Visual Studio 2012\Projects\Racoon\Racoon.Console\obj\
 C:\Apps\Racoon\Racoon.Console\bin\Debug\Racoon.Console.exe.config
 C:\Apps\Racoon\Racoon.Console\obj\Debug\Racoon.Console.exe
 C:\Apps\Racoon\Racoon.Console\obj\Debug\Racoon.Console.pdb
+C:\Dev\Racoon\Racoon.Console\bin\Debug\Racoon.Console.exe.config
+C:\Dev\Racoon\Racoon.Console\obj\Debug\Racoon.Console.exe
+C:\Dev\Racoon\Racoon.Console\obj\Debug\Racoon.Console.pdb
